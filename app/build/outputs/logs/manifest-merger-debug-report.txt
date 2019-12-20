@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.0.aar\f8318e943daa64b27c54eff0213034d5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.0.aar\4d1e0cc73b115eeda1e48716d4cbc47f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\ead5fff99b0514af793ce0440cef07bc\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-alpha08.aar\3dc0882b1f276b7f359b2d8cd489db82\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-alpha08.aar\34f3b25ac1bc3b7b5f840d872c946a64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\4e1eb89368341742fd230d8cd8b8909b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\1d0cd49c8344ed71b0df8d646d234f14\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-alpha08.aar\f52de09dae3f8c77a7fdd7cb1bdee2d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-alpha08.aar\4dfa3929280984b304077802da6ce60b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\257d7418fbb17967ecc38741a3ee0578\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\4026839ef57bb774b920a9e833230047\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\db7c20e30e1616dbc9c283c4c2ae553f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\9e4d572517ed915729b79f7ec15f6ded\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\room-runtime-2.0.0.aar\c321a4c65ade1953c472a2155296d83d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\265173b987ad7b85633b6f6a74b5c267\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\8f895723317c03a880cfeeb228be3b14\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\da5c8c545403f9c229bf4e6a5b9eee2e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-alpha08.aar\965518296f78d30802db1e9d07c86919\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-alpha08.aar\63b7f9e1f456b46241ed2e59367ea350\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\4e85b4a2d3f012ca7ddbcedda88fde77\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\ddb8c9778621c6e5517811b15907c6b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\86859a626de7b24914652adc3a078313\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\c09cc689fb246c870840bc435fdddfc5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\74a2ea66f3a50f4bd4f8ba7efd0b4001\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\771fad163e4b41a12cbd0c15a4bdde25\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\6167dddc73a711045bc9dcef1d7643ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\88939d5aa31f82ba254db8062d11cbf8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c5bde4cb90c4833d3cabf69821f6efde\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\e7ccf1566422b8b5f759c5145deb22ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\ce6283b7e7ddd81e3540b5dcb3897a2c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\c83ae6f3272ac326153fcbbc3d31959a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-alpha08.aar\ddb208c4358046ae7a098552374ab1ec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-alpha08.aar\9ce8bbfafe47199941687c86f9ab0f68\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\9c9adc463319a29964b64f4b2feed385\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\d524222dcbc1155a64f9f1e5510f3d3c\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\8d26dcf54b2e0a31979cb16a064b3ad5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\f280672b688363ce6f6e67af9644a1f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\016e98e9e939d97d6e5a6aab3a9d7721\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\75d558e3d0dbadd82e6a04082bf379b7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\258f7a29d60dd5e38b0eede873598e95\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.0.aar\d87091ef3a880e0d7e19a8594d0a3f19\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.0.aar\b07dd723f763f45aa72fa94cc5ec6dd3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\2a05bf068609cd963d85d16db3f9b830\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\0fab440ba27c8d3a8678b0a05ae55549\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5d903545adabb1562195c3e5d7ba1c47\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\8290a7e4332dca35f70df4ecf5843b8e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1103c0d85da793a2d356523fd06fb595\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\334f45d53b6546932944b0c422cc34ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b2efee7e374f77a86f4ba0294d91358d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\5e4842ab7a5a4c811b1c3d3ae9ef840e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\ead5fff99b0514af793ce0440cef07bc\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\ead5fff99b0514af793ce0440cef07bc\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\4e1eb89368341742fd230d8cd8b8909b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\4e1eb89368341742fd230d8cd8b8909b\AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\4026839ef57bb774b920a9e833230047\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\4026839ef57bb774b920a9e833230047\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\9c9adc463319a29964b64f4b2feed385\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\9c9adc463319a29964b64f4b2feed385\AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\d524222dcbc1155a64f9f1e5510f3d3c\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\d524222dcbc1155a64f9f1e5510f3d3c\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\016e98e9e939d97d6e5a6aab3a9d7721\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\016e98e9e939d97d6e5a6aab3a9d7721\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\9c9adc463319a29964b64f4b2feed385\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:9:9-68
+	android:icon
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:7:9-57
+	android:allowBackup
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.trackmysleepquality.MainActivity
+ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.0.aar\f8318e943daa64b27c54eff0213034d5\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.0.aar\f8318e943daa64b27c54eff0213034d5\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.0.aar\4d1e0cc73b115eeda1e48716d4cbc47f\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.0.aar\4d1e0cc73b115eeda1e48716d4cbc47f\AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\ead5fff99b0514af793ce0440cef07bc\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\ead5fff99b0514af793ce0440cef07bc\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-alpha08.aar\3dc0882b1f276b7f359b2d8cd489db82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-alpha08.aar\3dc0882b1f276b7f359b2d8cd489db82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-alpha08.aar\34f3b25ac1bc3b7b5f840d872c946a64\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-alpha08.aar\34f3b25ac1bc3b7b5f840d872c946a64\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\4e1eb89368341742fd230d8cd8b8909b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\4e1eb89368341742fd230d8cd8b8909b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\1d0cd49c8344ed71b0df8d646d234f14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\1d0cd49c8344ed71b0df8d646d234f14\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-alpha08.aar\f52de09dae3f8c77a7fdd7cb1bdee2d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-alpha08.aar\f52de09dae3f8c77a7fdd7cb1bdee2d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-alpha08.aar\4dfa3929280984b304077802da6ce60b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-alpha08.aar\4dfa3929280984b304077802da6ce60b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\257d7418fbb17967ecc38741a3ee0578\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\257d7418fbb17967ecc38741a3ee0578\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\4026839ef57bb774b920a9e833230047\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\4026839ef57bb774b920a9e833230047\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\db7c20e30e1616dbc9c283c4c2ae553f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\db7c20e30e1616dbc9c283c4c2ae553f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\9e4d572517ed915729b79f7ec15f6ded\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\9e4d572517ed915729b79f7ec15f6ded\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\room-runtime-2.0.0.aar\c321a4c65ade1953c472a2155296d83d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\room-runtime-2.0.0.aar\c321a4c65ade1953c472a2155296d83d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\265173b987ad7b85633b6f6a74b5c267\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\265173b987ad7b85633b6f6a74b5c267\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\8f895723317c03a880cfeeb228be3b14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\8f895723317c03a880cfeeb228be3b14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\da5c8c545403f9c229bf4e6a5b9eee2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\da5c8c545403f9c229bf4e6a5b9eee2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-alpha08.aar\965518296f78d30802db1e9d07c86919\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-alpha08.aar\965518296f78d30802db1e9d07c86919\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-alpha08.aar\63b7f9e1f456b46241ed2e59367ea350\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-alpha08.aar\63b7f9e1f456b46241ed2e59367ea350\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\4e85b4a2d3f012ca7ddbcedda88fde77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\4e85b4a2d3f012ca7ddbcedda88fde77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\ddb8c9778621c6e5517811b15907c6b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\ddb8c9778621c6e5517811b15907c6b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\86859a626de7b24914652adc3a078313\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\86859a626de7b24914652adc3a078313\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\c09cc689fb246c870840bc435fdddfc5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\c09cc689fb246c870840bc435fdddfc5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\74a2ea66f3a50f4bd4f8ba7efd0b4001\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\74a2ea66f3a50f4bd4f8ba7efd0b4001\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\771fad163e4b41a12cbd0c15a4bdde25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\771fad163e4b41a12cbd0c15a4bdde25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\6167dddc73a711045bc9dcef1d7643ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\6167dddc73a711045bc9dcef1d7643ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\88939d5aa31f82ba254db8062d11cbf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\88939d5aa31f82ba254db8062d11cbf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c5bde4cb90c4833d3cabf69821f6efde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c5bde4cb90c4833d3cabf69821f6efde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\e7ccf1566422b8b5f759c5145deb22ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\e7ccf1566422b8b5f759c5145deb22ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\ce6283b7e7ddd81e3540b5dcb3897a2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\ce6283b7e7ddd81e3540b5dcb3897a2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\c83ae6f3272ac326153fcbbc3d31959a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\c83ae6f3272ac326153fcbbc3d31959a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-alpha08.aar\ddb208c4358046ae7a098552374ab1ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-alpha08.aar\ddb208c4358046ae7a098552374ab1ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-alpha08.aar\9ce8bbfafe47199941687c86f9ab0f68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-alpha08.aar\9ce8bbfafe47199941687c86f9ab0f68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\9c9adc463319a29964b64f4b2feed385\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\9c9adc463319a29964b64f4b2feed385\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\d524222dcbc1155a64f9f1e5510f3d3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\d524222dcbc1155a64f9f1e5510f3d3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\8d26dcf54b2e0a31979cb16a064b3ad5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\8d26dcf54b2e0a31979cb16a064b3ad5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\f280672b688363ce6f6e67af9644a1f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\f280672b688363ce6f6e67af9644a1f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\016e98e9e939d97d6e5a6aab3a9d7721\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\016e98e9e939d97d6e5a6aab3a9d7721\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\75d558e3d0dbadd82e6a04082bf379b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\75d558e3d0dbadd82e6a04082bf379b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\258f7a29d60dd5e38b0eede873598e95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\258f7a29d60dd5e38b0eede873598e95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.0.aar\d87091ef3a880e0d7e19a8594d0a3f19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.0.aar\d87091ef3a880e0d7e19a8594d0a3f19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.0.aar\b07dd723f763f45aa72fa94cc5ec6dd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.0.aar\b07dd723f763f45aa72fa94cc5ec6dd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\2a05bf068609cd963d85d16db3f9b830\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\2a05bf068609cd963d85d16db3f9b830\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\0fab440ba27c8d3a8678b0a05ae55549\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\0fab440ba27c8d3a8678b0a05ae55549\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5d903545adabb1562195c3e5d7ba1c47\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5d903545adabb1562195c3e5d7ba1c47\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\8290a7e4332dca35f70df4ecf5843b8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\8290a7e4332dca35f70df4ecf5843b8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1103c0d85da793a2d356523fd06fb595\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1103c0d85da793a2d356523fd06fb595\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\334f45d53b6546932944b0c422cc34ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\334f45d53b6546932944b0c422cc34ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b2efee7e374f77a86f4ba0294d91358d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b2efee7e374f77a86f4ba0294d91358d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\5e4842ab7a5a4c811b1c3d3ae9ef840e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\5e4842ab7a5a4c811b1c3d3ae9ef840e\AndroidManifest.xml:20:5-44
+INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\d524222dcbc1155a64f9f1e5510f3d3c\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\d524222dcbc1155a64f9f1e5510f3d3c\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\d524222dcbc1155a64f9f1e5510f3d3c\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\d524222dcbc1155a64f9f1e5510f3d3c\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\d524222dcbc1155a64f9f1e5510f3d3c\AndroidManifest.xml:24:13-79
